@@ -30,7 +30,7 @@ Sou graduanda em <b>Análise e Desenvolvimento de Sistemas</b> pelo o IFBA - Ins
 <div align="center">
   <!-- Python --> <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
   <!-- Java--> <img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=F7DF1E">
-  <!-- MYSQL --> <img src="https://img.shields.io/badge/MySqlServer-CC2927?style=for-the-badge&logo=mysql&logoColor=white">
+  <!-- MYSQL --> <img src="https://img.shields.io/badge/MySql-CC2927?style=for-the-badge&logo=mysql&logoColor=white">
   
   <br>
 </div>
