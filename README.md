@@ -12,7 +12,7 @@
   <a href = "mailto:lianesantos78@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
-## 📌 Sobre mim
+## 📌 About me
 <div align='center'>
 
 Sou graduanda em <b>Análise e Desenvolvimento de Sistemas</b> pelo o IFBA - Instituto Federal da Bahia. Procuro sempre está aprimorando meus conhecimentos através de cursos complementares e também participo de comunidades voltada para programação.
